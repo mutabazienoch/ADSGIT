@@ -1,2 +1,0 @@
-# ADSGIT
-first assignment
